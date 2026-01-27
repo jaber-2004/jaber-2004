@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **React**
 - 🤝 I’m looking for help with **e-commerce**
 - 📝 I regularly write articles on [dev. to](dev. to)
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Tailwind Css**
 - 📫 How to reach me **md9292463@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
