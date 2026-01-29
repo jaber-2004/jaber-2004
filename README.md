@@ -12,15 +12,9 @@ A Passionate Frontend Developer from Bangladesh
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=jaber-2004&theme=onedark&no-frame=true&row=1&column=6" 
-      alt="GitHub Trophies" 
-    />
+ <img src="https://github-profile-trophy.vercel.app/?username=jaber-2004&theme=onedark&no-frame=true" />
   </a>
 </p>
-
-<hr/>
-
 
 ### 👨‍💻 About Me
 
