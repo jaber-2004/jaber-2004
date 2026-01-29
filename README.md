@@ -25,6 +25,23 @@
 * ⚡ Fun fact: *I think I’m funny 😄*
 
 ---
+<h3 align="left">🤝 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/thejaberbd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaber-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/jaber-2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jaber--2004-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://fb.com/thejaberbd" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-thejaberbd-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thejaberbd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-thejaberbd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
