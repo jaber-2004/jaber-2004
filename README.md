@@ -24,17 +24,20 @@
 * 📫 Reach me at **[md9292463@gmail.com](mailto:md9292463@gmail.com)**
 * ⚡ Fun fact: *I think I’m funny 😄*
 
+<h3 align="left">🌐 Connect with Me</h3>
+
 <p align="left">
   <a href="https://fb.com/thejaberbd" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-round&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
   </a>
   <a href="https://linkedin.com/in/thejaberbd" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-round&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://instagram.com/thejaberbd" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-round&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
 </p>
+
 
 
 
