@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Jaber</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">
+  Frontend Developer • React Enthusiast • Bangladesh 🇧🇩
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views" 
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaber-2004&theme=onedark&row=1&column=6" alt="trophies" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=jaber-2004&theme=onedark&no-frame=true&row=1&column=6" 
+      alt="GitHub Trophies" 
+    />
   </a>
 </p>
 
----
+<hr/>
+
 
 ### 👨‍💻 About Me
 
