@@ -135,3 +135,7 @@ A Passionate Frontend Developer from Bangladesh
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- old -->
+<h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
+⭐ Thanks for visiting my profile!
+</h3>
+
