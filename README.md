@@ -43,7 +43,7 @@ A Passionate Front-end Developer from Bangladesh
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sijan666&theme=dark&hide_border=false" alt="Sijan666 Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jaber-2004&theme=dark&hide_border=false" alt="jaber-2004 Streak" />
 </div>
 
 <h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
