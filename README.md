@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm JABER</h1>
 <h3 align="center">
- <marquee behavior="" direction="">
-          A Passionate Front-end Developer from Bangladesh
-        </marquee>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=A Passionate+Front-end+Developer;From+Bangladesh+🇧🇩;Building+the+web+one+pixel+at+a+time" alt="Typing SVG" />
+  </a>
 </h3>
 
 <p align="center">
