@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JABER</h1>
 <h3 align="center">
-A Passionate Front-end Developer from Bangladesh
+ <marquee behavior="" direction="">
+          A Passionate Front-end Developer from Bangladesh
+        </marquee>
 </h3>
 
 <p align="center">
