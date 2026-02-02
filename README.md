@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" width="400" alt="Funny Typer">
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I5M2ZicG5iaG5iaG5iaG5iaG5iaG5iaG5iaG5iaG5iaG5iaG5pJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif)" width="400" alt="Funny Typer">
 </div>
 
 ### 👨‍💻 About Me
