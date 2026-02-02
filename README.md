@@ -12,9 +12,9 @@
   />
 </p>
 
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif)" alt="Animated Developer" width="60%" />
-</p>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eW1vNmc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" width="400" alt="Funny Typer">
+</div>
 
 ### 👨‍💻 About Me
 
