@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JABER</h1>
 <h3 align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=A+Passionate+Front-end+Developer;From+Bangladesh+🇧🇩;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=A+Passionate+Front-end+Developer;From+Bangladesh;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </p>
 </h3>
 
