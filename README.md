@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/SWoSkN6DxTszqIKEqv.gif" height="400" width="400" alt="Developer Coding">
+  <img src="https://i.giphy.com/SWoSkN6DxTszqIKEqv.gif" height="200" width="400" alt="Developer Coding">
 </p>
 
 ### 👨‍💻 About Me
