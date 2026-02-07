@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdjaberdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jaber-2004&theme=dark&hide_border=false" alt="jaber-2004 Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdjaberdev&theme=dark&hide_border=false" alt="jaber-2004 Streak" />
 </div>
 
 <h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
