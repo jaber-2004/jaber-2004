@@ -7,9 +7,9 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdjaberdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://i.giphy.com/SWoSkN6DxTszqIKEqv.gif" height="200" width="400" alt="Developer Coding">
